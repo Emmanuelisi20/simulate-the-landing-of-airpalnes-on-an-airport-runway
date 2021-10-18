@@ -1,7 +1,5 @@
 //Emmanuel Isidahomen
 /* This Program is used to simulate the landing of airpalnes on an airport runway.*/
-//10-31-2018
-//program 6
 #include <iostream>  // Input and output
 #include <string>    // string of charaters 
 #include <cstdlib>   // random number generator
